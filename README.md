@@ -1,1 +1,1 @@
-# Basic-Java-Input-Methods
+# Basic Java Input Methods
