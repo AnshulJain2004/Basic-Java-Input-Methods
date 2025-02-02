@@ -38,3 +38,7 @@ Additionally, the repository features a simple factorial calculation to showcase
 2. **Run with Command Line(Alternate/Optional)**
    ```bash
    java InputMain
+
+## Purpose
+
+This project is ideal for beginners who are looking to understand and compare different ways to read user input in Java. It also serves as a practical example for integrating input methods with simple computation logic.
