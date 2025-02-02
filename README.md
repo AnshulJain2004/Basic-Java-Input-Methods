@@ -35,9 +35,14 @@ Additionally, the repository features a simple factorial calculation to showcase
 1. **Compile the Java Files**:
    ```bash
    javac InputProcessor.java InputMain.java
-2. **Run with Command Line(Alternate/Optional)**
+2. **Run with Command Line(Alternate/Optional)**:
+   ```bash
+   java InputMain 5
+3. **Run Interactively**:
    ```bash
    java InputMain
+
+   Follow the on-screen prompts to choose an input method and enter a number.
 
 ## Purpose
 
