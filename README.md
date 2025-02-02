@@ -41,8 +41,7 @@ Additionally, the repository features a simple factorial calculation to showcase
 3. **Run Interactively**:
    ```bash
    java InputMain
-
-   Follow the on-screen prompts to choose an input method and enter a number.
+Follow the on-screen prompts to choose an input method and enter a number.
 
 ## Purpose
 
